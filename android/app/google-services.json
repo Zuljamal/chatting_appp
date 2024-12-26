@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48617215487",
+    "project_id": "flash-chat-9fa23",
+    "storage_bucket": "flash-chat-9fa23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48617215487:android:31357f97f5df90a04c43ca",
+        "android_client_info": {
+          "package_name": "com.Zuljamal.chatting_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwlvpEXgGJBiJM6hrNiz8xeLHpbsWgh2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
